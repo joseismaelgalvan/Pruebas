@@ -30,3 +30,7 @@ Alumno
 Proyecto Alumno
 
 -Proyecto(Alumno_idAlumno)
+
+
+-Probando los posibles conflictos, que pudieran suceder en GitHub
+-La prueba fue hecha
