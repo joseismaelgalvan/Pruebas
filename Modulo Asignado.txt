@@ -1,0 +1,32 @@
+7) Proyecto de Investigacion
+
+-Protocolo
+-Proyecto de Investigacion
+-Seguimiento Proyecto Investigacion
+
+
+Campos de Estudio
+-Antropología
+-Hístoria del Arte
+-Ciencias Políticas y Sociales
+-Literatura
+-Filosofia
+
+Proyecto Investigador
+
+-Persona
+-Investigador(Persona_idPersona)
+-Proyecto_Participa_Investigador(Investigador_idInvestigador)
+-Proyecto(Proyecto_idProyecto)
+
+
+Alumno
+-Persona
+-Participa_Convocatoria(Persona_idPersona)
+-Involucrado(Participa_Convocatoria_idParticipa_Convocatoria)
+-Alumno(Involucrado_idInvolucrado)
+
+
+Proyecto Alumno
+
+-Proyecto(Alumno_idAlumno)
