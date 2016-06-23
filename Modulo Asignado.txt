@@ -31,10 +31,13 @@ Proyecto Alumno
 
 -Proyecto(Alumno_idAlumno)
 
-
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+-----------------------------------ESTOS SON LOS NUEVOS CAMBIOS-------
 -Probando los posibles conflictos, que pudieran suceder en GitHub
 -La prueba fue hecha
 
 Base de da
 192.168.52.73
 usuario password atractivos
+
+
