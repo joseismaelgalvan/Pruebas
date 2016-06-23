@@ -38,3 +38,14 @@ Proyecto Alumno
 Base de da
 192.168.52.73
 usuario password atractivos
+
+
+
+INSTRUCIONES PARA PODER REAZAR UN CAMBIO CORRECTO EN GIT-HUT
+1.- VERIFICAR EL STATUS DE GIT-GUT
+2.- REALIZAS CAMBIOS
+3.- GUARDAS CAMBIOS git add .
+4.- VERIFICAR EL STATUS DE GIT-GUT
+5.- DOCUMENTAR CAMBIOS git commit -m "Agregue instrucciones al documento Modulo Asignado"
+6.- DESPUES GIT PULL
+7.- GIT PUSH
