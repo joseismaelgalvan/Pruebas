@@ -31,14 +31,14 @@ Proyecto Alumno
 
 -Proyecto(Alumno_idAlumno)
 
-
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+-----------------------------------ESTOS SON LOS NUEVOS CAMBIOS-------
 -Probando los posibles conflictos, que pudieran suceder en GitHub
 -La prueba fue hecha
 
 Base de da
 192.168.52.73
 usuario password atractivos
-
 
 
 INSTRUCIONES PARA PODER REAZAR UN CAMBIO CORRECTO EN GIT-HUT
@@ -49,3 +49,4 @@ INSTRUCIONES PARA PODER REAZAR UN CAMBIO CORRECTO EN GIT-HUT
 5.- DOCUMENTAR CAMBIOS git commit -m "Agregue instrucciones al documento Modulo Asignado"
 6.- DESPUES GIT PULL
 7.- GIT PUSH
+
