@@ -31,12 +31,10 @@ Proyecto Alumno
 
 -Proyecto(Alumno_idAlumno)
 
-<<<<<<< HEAD
 
 -Probando los posibles conflictos, que pudieran suceder en GitHub
 -La prueba fue hecha
-=======
+
 Base de da
 192.168.52.73
 usuario password atractivos
->>>>>>> 25c72ac2a307aa36da9c53a4d20ff2b1d58e37c9
